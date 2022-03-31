@@ -1,32 +1,30 @@
 # linux
 
 <h2>Вопрос 1</h2>
-
-<ol>
-  <li>Одна задача - одна программа </li>
-  <li>Есть множество путей решения </li>
-  <li>Все есть файл</li>
-</ol>
+1. r w x r- - r - -
+chmod u=rwx file; chmod go=r file
+chmod 744 file
+2. r - - - w- - - x
+chmod u=r file; chmod g=w file; chmod o=x file
+chmod 421 file
+3. - - x - w - r - -
+chmod u=x file; chmod g=w file; chmod o=r file
+chmod 124 file
 
 <h2>Вопрос 2</h2>
-Создатель ядра Linux и системы управления версиями Git
+У владельца файла есть права на запись и исполнение, у группы есть право на запись.
 
 <h2>Вопрос 3</h2>
-uname
+Владелец может читать, группа владельца может читать и исполнять, у всех остальных есть полный доступ.
 
 <h2>Вопрос 4</h2>
-1, 5 и 15 минут
+chmod 312 file
 
 <h2>Вопрос 5</h2>
-df
+сhmod 605 file
 
 <h2>Вопрос 6</h2>
-vmstat сообщает информацию о процессах, памяти, виртуальной памяти, вводе-выводе, дисках и активности процессора.
+chmod 777 file
 
 <h2>Вопрос 7</h2>
-debian, ARM64;
-HDD 60gb;
-RAM 2gb; 
-task 98, 163 thr;
-load average: 0.18 0.07 0.08;
-Uptime: 01:21:08.
+chmod +t filename
