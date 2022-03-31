@@ -1,14 +1,23 @@
 # linux
 
 <h2>Вопрос 1</h2>
-1. r w x r- - r - -
+
+1. `r w x r- - r - -`
+
 chmod u=rwx file; chmod go=r file
+
 chmod 744 file
-2. r - - - w- - - x
+
+2. `r - - - w- - - x`
+
 chmod u=r file; chmod g=w file; chmod o=x file
+
 chmod 421 file
-3. - - x - w - r - -
+
+3. `- - x - w - r - -`
+
 chmod u=x file; chmod g=w file; chmod o=r file
+
 chmod 124 file
 
 <h2>Вопрос 2</h2>
