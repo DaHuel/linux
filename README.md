@@ -28,4 +28,30 @@ $VAR
 <h2>Вопрос 9</h2>
  2
  
+ <h2>Задача</h2>
  
+``` 
+#!/bin/bash
+let A=$1-1
+let B=$2-1
+for ((i = 0; i < $1; i++)); do
+   for ((j = 0; j < $2; j++)); do
+   	if [ $i -eq 0 -o $i -eq $A ] 
+   		then
+   		echo -n $4
+   	else 
+   		if [ $j -eq 0 -o $j -eq $B ] 
+   			then
+   			echo -n $4
+   		else					
+   			if [ $3 -eq 0 ]
+   				then
+   				echo -n " "
+   			else echo -n $4
+   			fi
+   		fi
+   	fi
+   done
+   echo ''
+done
+```
