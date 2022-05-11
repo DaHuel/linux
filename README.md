@@ -21,5 +21,9 @@ crontab jobs
 mount
 
  <h2>Практика</h2>
- ![!]()
- ![!]()
+ 
+ ![!](https://github.com/DaHuel/linux/blob/task8/1.png)
+ 
+ ![!](https://github.com/DaHuel/linux/blob/task8/cron.png)
+ 
+ ![!](https://github.com/DaHuel/linux/blob/task8/cron2.png)
