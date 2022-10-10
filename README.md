@@ -1,32 +1,43 @@
 # linux
 
-<h2>Вопрос 1</h2>
+<h2>1. Продемонстрировать работу команд: cat, ls, cp, mv, touch, rm, echo, cd,mkdir, rmdir,grep, less, pwd,diff, file, find, locate, head, tail, sort</h2>
 
-<ol>
-  <li>Одна задача - одна программа </li>
-  <li>Есть множество путей решения </li>
-  <li>Все есть файл</li>
-</ol>
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/1.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/2.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/3.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/4.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/5.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/6.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/7.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/8.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/9.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/10.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/11.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/12.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/13.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/14.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/15.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/16.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/17.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/18.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/19.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/20.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/21.jpg">
+  
+  
+<h2>2. Показать содержимое path, добавить в path дополнительный путь </h2>
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/22.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/23.jpg">
+  
+<h2>3. Продемонстрировать перенаправление вывода в файл</h2>
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/24.jpg">
 
-<h2>Вопрос 2</h2>
-Создатель ядра Linux и системы управления версиями Git
+<h2>4. Вызвать команду с ошибкой и перенаправить вывод ошибки в файл</h2>
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/25.jpg">
 
-<h2>Вопрос 3</h2>
-uname
-
-<h2>Вопрос 4</h2>
-1, 5 и 15 минут
-
-<h2>Вопрос 5</h2>
-df
-
-<h2>Вопрос 6</h2>
-vmstat сообщает информацию о процессах, памяти, виртуальной памяти, вводе-выводе, дисках и активности процессора.
-
-<h2>Вопрос 7</h2>
-debian, ARM64;
-HDD 60gb;
-RAM 2gb; 
-task 98, 163 thr;
-load average: 0.18 0.07 0.08;
-Uptime: 01:21:08.
+<h2>5. Перенаправить стандартный ввод в программу</h2>
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/26.jpg">
+  
+<h2>6. Создать архив, распаковать архив</h2>
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/27.jpg">
+<image src="https://raw.githubusercontent.com/DaHuel/linux/main/screens/28.jpg">
